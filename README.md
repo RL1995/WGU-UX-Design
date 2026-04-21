@@ -1,8 +1,7 @@
 # User Experience Design - D479
 
 This is a prototype website created for User Experience Design at Western Governors University (WGU).
-
-
+- https://rl1995.github.io/WGU-UX-Design/
 
 ## Project Structure
 
