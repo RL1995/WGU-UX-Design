@@ -29,3 +29,6 @@ This is a prototype website created for User Experience Design at Western Govern
 - Mobile responsiveness
 - Static header with persistent navigation
 - Clear content hierarchy across all pages
+
+
+# Thanks! 
